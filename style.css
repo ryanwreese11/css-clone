@@ -129,7 +129,10 @@ header {
     align-content: center;
     box-sizing: border-box;
     text-align: center
-    
+}
+
+.promise {
+    font-size: 50px;
 }
 
 .empty_space {
